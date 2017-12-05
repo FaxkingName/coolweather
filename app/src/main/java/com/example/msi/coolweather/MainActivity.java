@@ -1,4 +1,4 @@
-package com.example.msi.coolweather;
+ package com.example.msi.coolweather;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
